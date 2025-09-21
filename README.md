@@ -1,3 +1,4 @@
+![Portada](https://github.com/IsselCode/IsselCode/blob/main/portada.gif)
 <h1 align="center">Hola 👋, Soy Gregory Martínez (Issel Code)</h1>
 <h3 align="center">Soy un desarrollador apasionado por crear aplicaciones claras, escalables y fáciles de mantener. Me gusta estructurar bien los proyectos, optimizar cada detalle y entender el por qué de cada solución. Busco entregar software robusto, ordenado y con una gran experiencia de usuario.</h3>
 
